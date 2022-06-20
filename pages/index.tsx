@@ -14,7 +14,7 @@ export default function Home() {
       Full Stack Software Developer
     </h2>
     <h3 className="text-1xl font-bold text-slate-500	mt-4">
-      <a href="https://github.com/ekwoodrich/ekw-home/raw/2029a83e1a73716f838f0def915de0e050bc69c8/assets/Eliot_Woodrich_Resume_June_22.pdf">Resume</a>
+      <a href="https://github.com/ekwoodrich/ekw-home/raw/main/assets/Eliot_Woodrich_Resume_June_20.pdf">Resume</a>
     </h3>
     <h3 className="text-1xl font-bold text-slate-500" >
       <a href="https://www.linkedin.com/in/eliot-woodrich-a83459bb/">LinkedIn</a> 
