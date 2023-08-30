@@ -1,11 +1,15 @@
+import Head from 'next/head';
+
 export default function Home() {
   return (
     
     <div className="flex items-center justify-center h-screen">
-      <head>
+          <Head>
         <title>Eliot Woodrich - Full Stack Software Developer</title>
-        <meta name="description" content="Personal home page for Eliot Woodrich" />
-      </head>
+          <meta name="description" content="Personal home page for Eliot Woodrich" />
+          <link rel="shortcut icon" href="/favicon.png" media="(prefers-color-scheme: dark)"/>
+          <link rel="shortcut icon" href="/favicon.ico" media="(prefers-color-scheme: light)"/>
+        </Head>
     <main>
       <h1 className="text-3xl font-bold">
       Eliot Woodrich
